@@ -1,5 +1,5 @@
 # joyful-skin
-Self-made Skin for SUSPlayer
+Skin for SUSPlayer
 
 Air and Effects are from the Default Skin
 
